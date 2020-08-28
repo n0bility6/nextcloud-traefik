@@ -1,4 +1,4 @@
-# ncbuilder
+# nextcloud builder
 
 This is a simple script to help you get up and running with nextcloud in a docker container (docker compose). 
 
